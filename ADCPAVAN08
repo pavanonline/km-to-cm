@@ -1,0 +1,13 @@
+# Python program to convert kilometer to centimeters
+kilometers = float(input("Enter value in kilometers: "))
+centimeters = kilometers * 100000.0
+print('kilometers is equal centimeters',(kilometers,centimeters))
+
+
+OUTPUT:
+Enter value in kilometers: 2
+kilometers is equal centimeters (2.0, 200000.0)
+
+
+...Program finished with exit code 0
+Press ENTER to exit console
